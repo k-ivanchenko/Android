@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lecture5Practice</string>
+    <string name="editTextClick">After that click button</string>
+    <string name="editTextTextChanging">Right now you are changing the text</string>
+</resources>
